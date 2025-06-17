@@ -1,0 +1,11 @@
+{
+  "env": {
+    "DB_USER": "vijayalakshmihariuma",
+    "DB_PASSWORD": "hari123",
+    "DB_HOST": "cluster1.gckzxwj.mongodb.net",
+    "DB_NAME": "placeify",
+    "DB_CLUSTER": "cluster1",
+    "API_KEY": "AIzaSyAOWPUKX1WafNdowxYn8w3hSWnNgZQLnh0",
+    "JWT_KEY" : "placeify_jwt_key"
+  }
+}
